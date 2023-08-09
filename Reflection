@@ -1,0 +1,11 @@
+Throughout this project, I had the opportunity to apply various data extraction, transformation, and loading (ETL) techniques to two distinct datasets and gain hands-on experience in working with real-world data. This project helped solidify my understanding of ETL processes and their importance in preparing data for analysis.
+
+One of the main challenges I encountered during the project was identifying and resolving data quality issues. The datasets I used had missing values and inconsistencies that needed to be addressed before performing any meaningful analysis. I had to make decisions on how to handle missing data, whether to drop or impute values, and ensure that the data was properly aligned for meaningful transformations.
+
+Another challenge was performing the join operation between the two datasets. Ensuring that the common attributes were correctly identified and matching rows were successfully merged required careful attention. I learned the importance of data profiling and exploring the datasets thoroughly before attempting any transformations.
+
+During the transformation phase, I applied aggregation operations like GROUP BY to calculate averages and totals for specific attributes. While the concepts were clear, implementing these operations in code and verifying their accuracy took some time and experimentation. Documenting these transformations was crucial for maintaining a clear record of the process.
+
+In terms of what I would do differently next time, I would invest more time in data profiling and exploration before starting transformations. This would involve understanding the data distribution, identifying potential outliers, and considering different ways to handle missing values. Additionally, I would explore using more advanced aggregation techniques and consider incorporating data visualization to gain deeper insights.
+
+Overall, this project provided valuable experience in handling and transforming real-world datasets. It highlighted the iterative nature of the ETL process and the importance of thorough documentation at each step. As I move forward in my data analysis journey, I will carry these lessons with me to approach future ETL tasks with more confidence and efficiency.
